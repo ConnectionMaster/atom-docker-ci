@@ -1,4 +1,5 @@
-# Atom Docker CI Images
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ # Atom Docker CI Images
 
 This repository contains a `Dockerfile` used to build images meant to be used
 during CI builds of an Atom package. They are built using 64 bit builds of Atom.
